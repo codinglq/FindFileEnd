@@ -1,0 +1,84 @@
+﻿生成启动时间为 2014/4/17 21:08:10。
+     1>项目“C:\Users\lq\Documents\Visual Studio 2010\Projects\FindFileEnd\FindFileEnd.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Release\FindFileEnd.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Release\FindFileEnd.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\FindFileEnd.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\FindFileEnd.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt FindFileEnd.cpp FindFileEndDlg.cpp MyCreateTable.cpp MyFunListCtrl.cpp MyProgressDlg.cpp MyQueryFile.cpp
+         FindFileEnd.cpp
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(29): warning C4091: “typedef ”: 没有声明变量时忽略“FILE_INFO_VEC_NODE”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(37): warning C4091: “typedef ”: 没有声明变量时忽略“MAX_TABLE_VEC”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(52): warning C4091: “typedef ”: 没有声明变量时忽略“FILE_INFO_MAP_NODE”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(63): warning C4091: “typedef ”: 没有声明变量时忽略“MAX_TABLE_MAP”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(86): warning C4091: “typedef ”: 没有声明变量时忽略“MAX_TEMP_RES_TABLE”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(105): warning C4091: “typedef ”: 没有声明变量时忽略“DIV_HANDLE_NODE”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(121): warning C4091: “typedef ”: 没有声明变量时忽略“REAL_RES_TABLE”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(139): warning C4091: “typedef ”: 没有声明变量时忽略“THREAD_PARAM”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\FindFileEndDlg.h(17): warning C4091: “typedef ”: 没有声明变量时忽略“PARAM_INPUT”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\FindFileEndDlg.h(23): warning C4091: “typedef ”: 没有声明变量时忽略“POG_PARAM”的左侧
+         FindFileEndDlg.cpp
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(29): warning C4091: “typedef ”: 没有声明变量时忽略“FILE_INFO_VEC_NODE”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(37): warning C4091: “typedef ”: 没有声明变量时忽略“MAX_TABLE_VEC”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(52): warning C4091: “typedef ”: 没有声明变量时忽略“FILE_INFO_MAP_NODE”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(63): warning C4091: “typedef ”: 没有声明变量时忽略“MAX_TABLE_MAP”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(86): warning C4091: “typedef ”: 没有声明变量时忽略“MAX_TEMP_RES_TABLE”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(105): warning C4091: “typedef ”: 没有声明变量时忽略“DIV_HANDLE_NODE”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(121): warning C4091: “typedef ”: 没有声明变量时忽略“REAL_RES_TABLE”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(139): warning C4091: “typedef ”: 没有声明变量时忽略“THREAD_PARAM”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\FindFileEndDlg.h(17): warning C4091: “typedef ”: 没有声明变量时忽略“PARAM_INPUT”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\FindFileEndDlg.h(23): warning C4091: “typedef ”: 没有声明变量时忽略“POG_PARAM”的左侧
+         MyCreateTable.cpp
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(29): warning C4091: “typedef ”: 没有声明变量时忽略“FILE_INFO_VEC_NODE”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(37): warning C4091: “typedef ”: 没有声明变量时忽略“MAX_TABLE_VEC”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(52): warning C4091: “typedef ”: 没有声明变量时忽略“FILE_INFO_MAP_NODE”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(63): warning C4091: “typedef ”: 没有声明变量时忽略“MAX_TABLE_MAP”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(86): warning C4091: “typedef ”: 没有声明变量时忽略“MAX_TEMP_RES_TABLE”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(105): warning C4091: “typedef ”: 没有声明变量时忽略“DIV_HANDLE_NODE”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(121): warning C4091: “typedef ”: 没有声明变量时忽略“REAL_RES_TABLE”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(139): warning C4091: “typedef ”: 没有声明变量时忽略“THREAD_PARAM”的左侧
+         MyFunListCtrl.cpp
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(29): warning C4091: “typedef ”: 没有声明变量时忽略“FILE_INFO_VEC_NODE”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(37): warning C4091: “typedef ”: 没有声明变量时忽略“MAX_TABLE_VEC”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(52): warning C4091: “typedef ”: 没有声明变量时忽略“FILE_INFO_MAP_NODE”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(63): warning C4091: “typedef ”: 没有声明变量时忽略“MAX_TABLE_MAP”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(86): warning C4091: “typedef ”: 没有声明变量时忽略“MAX_TEMP_RES_TABLE”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(105): warning C4091: “typedef ”: 没有声明变量时忽略“DIV_HANDLE_NODE”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(121): warning C4091: “typedef ”: 没有声明变量时忽略“REAL_RES_TABLE”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(139): warning C4091: “typedef ”: 没有声明变量时忽略“THREAD_PARAM”的左侧
+         MyProgressDlg.cpp
+         MyQueryFile.cpp
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(29): warning C4091: “typedef ”: 没有声明变量时忽略“FILE_INFO_VEC_NODE”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(37): warning C4091: “typedef ”: 没有声明变量时忽略“MAX_TABLE_VEC”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(52): warning C4091: “typedef ”: 没有声明变量时忽略“FILE_INFO_MAP_NODE”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(63): warning C4091: “typedef ”: 没有声明变量时忽略“MAX_TABLE_MAP”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(86): warning C4091: “typedef ”: 没有声明变量时忽略“MAX_TEMP_RES_TABLE”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(105): warning C4091: “typedef ”: 没有声明变量时忽略“DIV_HANDLE_NODE”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(121): warning C4091: “typedef ”: 没有声明变量时忽略“REAL_RES_TABLE”的左侧
+     1>c:\users\lq\documents\visual studio 2010\projects\findfileend\MyDefFile.h(139): warning C4091: “typedef ”: 没有声明变量时忽略“THREAD_PARAM”的左侧
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\FindFileEnd.res" FindFileEnd.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\lq\Documents\Visual Studio 2010\Projects\FindFileEnd\Release\FindFileEnd.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Release\FindFileEnd.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\lq\Documents\Visual Studio 2010\Projects\FindFileEnd\Release\FindFileEnd.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\lq\Documents\Visual Studio 2010\Projects\FindFileEnd\Release\FindFileEnd.lib" /MACHINE:X86 Release\FindFileEnd.res
+         Release\FindFileEnd.obj
+         Release\FindFileEndDlg.obj
+         Release\MyCreateTable.obj
+         Release\MyFunListCtrl.obj
+         Release\MyProgressDlg.obj
+         Release\MyQueryFile.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         FindFileEnd.vcxproj -> C:\Users\lq\Documents\Visual Studio 2010\Projects\FindFileEnd\Release\FindFileEnd.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\lq\Documents\Visual Studio 2010\Projects\FindFileEnd\Release\FindFileEnd.exe;#1" /manifest Release\FindFileEnd.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Release\FindFileEnd.unsuccessfulbuild”。
+         正在对“Release\FindFileEnd.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\lq\Documents\Visual Studio 2010\Projects\FindFileEnd\FindFileEnd.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:31.64
